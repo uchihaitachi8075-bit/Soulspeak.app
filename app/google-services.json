@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806222339778",
+    "project_id": "soulspeak-8361d",
+    "storage_bucket": "soulspeak-8361d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806222339778:android:5efc5973057fc8c884a55b",
+        "android_client_info": {
+          "package_name": "com.example.soulspeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806222339778-t51m14rda2blfri978d96icfimq81msn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulspeak",
+            "certificate_hash": "62d0388fdbbaad17635b062d74030015ad27c35b"
+          }
+        },
+        {
+          "client_id": "806222339778-gqpothrias63s512ihqsfhdc94ao1kkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUbphH5aUeqL7CB1yD63mCUlggd6zPoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806222339778-gqpothrias63s512ihqsfhdc94ao1kkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
